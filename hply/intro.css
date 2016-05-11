@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+		padding:0px;
+		margin:0px auto;
+		}
+	body{
+		
+		background:url(images/bg.jpg);
+		}
+	.box{
+		width:719px;
+		background-image:url(images/lmbg.jpg);
+		}
+	.top embed{
+		width:719px;
+		height:290px;
+		}
+	.menu img{
+		float:left;
+		}
+     .copyright{
+		margin-left:400px;
+		}
